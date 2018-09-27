@@ -1,1 +1,3 @@
 # sna
+
+For research purposes
